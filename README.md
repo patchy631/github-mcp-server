@@ -1,5 +1,8 @@
 # GitHub MCP Server
 
+![GitHub MCP](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)]
+
+
 The GitHub MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)
 server that provides seamless integration with GitHub APIs, enabling advanced
 automation and interaction capabilities for developers and tools.
