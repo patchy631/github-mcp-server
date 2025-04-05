@@ -1,6 +1,6 @@
 # GitHub MCP Server
 
-![GitHub MCP](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)]
+![GitHub MCP](https://github.com/patchy631/github-mcp-server/blob/main/assets/github-mcp.png)
 
 
 The GitHub MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)
